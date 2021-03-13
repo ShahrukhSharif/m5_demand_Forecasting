@@ -1,0 +1,22 @@
+Perform EDA On Data-------------->>>>      
+A. 1_EDA_Notebook.pynb   
+
+Preprocessing The Data-------------->>>>
+B. 2_Price_Data_Preprocessing.ipynb
+C. 3_Calander_Data_Preprocessing.ipynb
+D. 4_Feature_Engineering.ipynb
+
+
+Modeling Part-------------->>>>
+
+Simple Moving Average Model
+E. 5_base_Line_Model.ipynb
+
+Extra tree regressor Model And Ranom Forest Regressor Model
+F. 6_EXTRA_Tree_Regressor_Random_Forest
+
+LightGbm Model
+G. 7_LGBM_Final_Solution.ipynb
+
+Test Final File
+H. 8_Final.ipynb
